@@ -1,4 +1,4 @@
-module github.com/documaticai/tree-sitter-gleam
+module github.com/DocumaticAI/tree-sitter-gleam
 
 go 1.22
 
