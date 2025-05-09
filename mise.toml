@@ -1,0 +1,3 @@
+[tools]
+"cargo:tree-sitter-cli" = "latest"
+go = "1.24.3"
