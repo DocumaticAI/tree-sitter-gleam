@@ -1,4 +1,4 @@
-module github.com/DocumaticAI/tree-sitter-gleam
+module github.com/rover-app/tree-sitter-gleam
 
 go 1.22
 

@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.13)
 project(tree-sitter-gleam
         VERSION "0.1.0"
         DESCRIPTION "Gleam grammar for tree-sitter"
-        HOMEPAGE_URL "https://github.com/documaticai/tree-sitter-gleam"
+        HOMEPAGE_URL "https://github.com/rover-app/tree-sitter-gleam"
         LANGUAGES C)
 
 option(BUILD_SHARED_LIBS "Build using shared libraries" ON)

@@ -3,7 +3,7 @@ $(error Windows is not supported)
 endif
 
 LANGUAGE_NAME := tree-sitter-gleam
-HOMEPAGE_URL := https://github.com/documaticai/tree-sitter-gleam
+HOMEPAGE_URL := https://github.com/rover-app/tree-sitter-gleam
 VERSION := 0.1.0
 
 # repository

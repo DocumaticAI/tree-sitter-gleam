@@ -3,7 +3,7 @@ package tree_sitter_gleam_test
 import (
 	"testing"
 
-	tree_sitter_gleam "github.com/DocumaticAI/tree-sitter-gleam/bindings/go"
+	tree_sitter_gleam "github.com/rover-app/tree-sitter-gleam/bindings/go"
 	tree_sitter "github.com/tree-sitter/go-tree-sitter"
 )
 

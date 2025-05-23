@@ -28,7 +28,7 @@
       }
     ],
     "links": {
-      "repository": "https://github.com/DocumaticAI/tree-sitter-gleam"
+      "repository": "https://github.com/rover-app/tree-sitter-gleam"
     }
   },
   "bindings": {
